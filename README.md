@@ -3,8 +3,8 @@
 ## 🌹 About Me
 - Software Developer student from Centennial College focused on Back-end development. 💻 
 - Always looking for new challenges to learn everyday. 🧩
-- Favorite programming language is C#/.NET 
 - Great logical thinking, Organized, Hard Worker and Friendly. 💌
+- Specialized in OOP and TDD. 🧮
 - Love Videogames and Fashion. 🎮
 
 ## 🛠 Skills
