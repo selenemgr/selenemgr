@@ -1,4 +1,4 @@
-# Geetings, I'm Selene! 💕
+# Greetings, I'm Selene! 💕
 
 ## 🌹 About Me
 - Software Developer student from Centennial College. 💻 
