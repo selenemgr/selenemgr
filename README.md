@@ -1,7 +1,8 @@
 # Greetings, I'm Selene! 💕
 
 ## 🌹 About Me
-- Software Developer student from Centennial College. 💻 
+- Software Developer student from Centennial College. 💻
+- Working for Advanced Utility Systems 👥
 - Always looking for new challenges to learn everyday. 🧩
 - Great logical thinking, Organized, Hard Worker and Friendly. 💌
 - Love Videogames and Fashion. 🎮
