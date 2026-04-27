@@ -4,6 +4,7 @@
 - 🧩 Always looking to learn everyday and beat new challenges
 - 💌 Great logical thinking, organized, hard worker and friendly
 - 💻 Software engineering graduate from <a href="https://www.centennialcollege.ca/">Centennial College</a> with **GPA: 4.1/4.5**
+- 🍁 English / Spanish
 
 ## 🛠 Skills
 ### Frontend
