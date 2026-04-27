@@ -38,7 +38,7 @@
 
 ### Testing
 <div>
-	
+	<code><a href="https://www.selenium.dev/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/56c4b1a8-db1e-46cc-9799-9feaa2298511" alt="Selenium" title="Selenium"/></a></code>
 </div>
 	
 ### Deployment
