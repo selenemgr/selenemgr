@@ -29,28 +29,50 @@
 	<code><a href="https://dotnet.microsoft.com/"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt="NET Core" title="NET Core"/></a></code>
 	<code><a href="https://learn.microsoft.com/dotnet/csharp/"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></a></code>
 	<code><a href="https://www.java.com/"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></a></code>
+	<code><a href="https://www.python.org/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/cb615844-5b91-436a-a8a2-dc3851330baf" alt="Python" title="Python"/></a></code>
+	<code><a href="https://kotlinlang.org/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/c2090e00-23b0-4aea-b237-fe25718c6255" alt="Kotlin" title="Kotlin"/></a></code>
 </div>
 
 ### Database
 <div>
+	<code><a href="https://learn.microsoft.com/en-us/ssms/install/install"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/0db0dc7d-b932-4a43-aa8b-cc5940abe934" alt="SQL Server Management" title="SQL Server Management"/></a></code>
 	<code><a href="https://www.prisma.io/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/db05faf8-932a-4e31-9e66-a069ad2e713e" alt="prisma" title="prisma"/></a></code>
-	<code><a href="https://www.w3schools.com/sql/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/1094387e-7b7a-47e9-8756-251a469dfe8e" alt="Sql" title="Sql"/></a></code>
+	<code><a href="https://www.postgresql.org/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/6ffe56ad-c58c-4c86-84b8-b037d1215f96" alt="PostgreSQL" title="PostgreSQL"/></a></code>
+	<code><a href="https://www.mysql.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/78fb19c6-587d-40e9-a577-10121575d160" alt="MySQL" title="MySQL"/></a></code>
+	<code><a href="https://www.mongodb.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/35cf3c47-ab2e-4ee2-bddd-d39ab7beef9c" alt="MongoDB" title="MongoDB"/></a></code>
 </div>
 
 ### Testing
 <div>
 	<code><a href="https://www.selenium.dev/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/56c4b1a8-db1e-46cc-9799-9feaa2298511" alt="Selenium" title="Selenium"/></a></code>
+	<code><a href="https://nunit.org/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/b2ff075c-c132-4368-b23f-017aaad5f5c9" alt="nUnit" title="nUnit"/></a></code>
+	<code><a href="https://xunit.net/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/887c57e0-ac8d-422d-b221-9152bf5ae0a8" alt="nUnit" title="xUnit"/></a></code>
 </div>
 	
 ### Deployment
 <div>
-	<code><a href="https://azure.microsoft.com/en-us/get-started/azure-portal/?msockid=0bea3637fa4b68e4356c23a1fbe169ea"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></a></code>
+	<code><a href="https://azure.microsoft.com/en-us/get-started/azure-portal/"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></a></code>
+	<code><a href="https://www.jetbrains.com/teamcity/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/1b75cd67-d28d-4691-95aa-4de17282491f" alt="TeamCity" title="TeamCity"/></a></code>
+	<code><a href="https://aws.amazon.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/db6ba6ba-5d88-49dd-9772-bfc90adae78e" alt="AWS" title="AWS"/></a></code>
+	<code><a href="https://vercel.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/a5356cca-3601-4e0d-bac4-acd65644ba62" alt="Vercel" title="Vercel"/></a></code>
+	<code><a href="https://www.docker.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/41516daa-eab4-47f2-a348-27d4099391f8" alt="Docker" title="Docker"/></a></code>
+	<code><a href="https://podman.io/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/b061fc03-2046-4ba8-9c76-a98d30ba8815" alt="Podman" title="Podman"/></a></code>
+	<code><a href="https://www.pulumi.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/0baac0a4-52f2-42b5-8199-da9fa89d1bbb" alt="Pulumi" title="Pulumi"/></a></code>
 </div>
 
-### Other
+### Tools
 <div>
+	<code><a href="https://visualstudio.microsoft.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/2f7052ad-3c05-4d87-af76-930e8197e386" alt="Visual Studio" title="Visual Studio"/></a></code>
+	<code><a href="https://code.visualstudio.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/fbe68710-5937-4d08-a0a4-5183f8a19f84" alt="Visual Studio Code" title="Visual Studio Code"/></a></code>
+	<code><a href="https://www.jetbrains.com/idea/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/488ed19e-6ab8-4b75-a967-e4720016e456" alt="IntelliJ" title="IntelliJ"/></a></code>
 	<code><a href="https://git-scm.com/"><img width="40px" height="40px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" title="git"/></a></code>
 	<code><a href="https://www.atlassian.com/software/jira"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/f7816761-4a47-45e7-9bed-17bcea511230" alt="Jira" title="Jira"/></a></code>
+	<code><a href="https://trello.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/ff2757a0-19de-49d3-9c2b-0f7e901535e8" alt="Trello" title="Trello"/></a></code>
+	<code><a href="https://www.postman.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/572c78f4-cb1f-46c1-ab30-590b8a09e041" alt="Postman" title="Postman"/></a></code>
+	<code><a href="https://zenduty.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/69a2209b-0365-4000-b5d6-9aaddce53202" alt="Zenduty" title="Zenduty"/></a></code>
+	<code><a href="https://www.figma.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/67c3e825-2a17-433f-ba7c-691f7c470523" alt="Figma" title="Figma"/></a></code>
+	<code><a href="https://www.canva.com/"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/85f5e82e-ada7-40f5-9a40-467427110476" alt="Canva" title="Canva"/></a></code>
+	<code><a href="https://www.microsoft.com/en-us/microsoft-365/visio"><img width="40px" height="40px" src="https://github.com/user-attachments/assets/1874e9da-9565-4076-a810-4711e4894818" alt="Visio" title="Visio"/></a></code>
 </div>
 
 ## 🔗 Contact Me!
